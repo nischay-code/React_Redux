@@ -1,1 +1,1 @@
-export const buybook = buybook;
+export const buy_book = "buy_book";
