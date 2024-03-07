@@ -4,9 +4,7 @@ import BookContainer from "./redux/BookContainer";
 function App() {
   return (
     <Provider store={store}>
-      <div className="App">
-        <BookContainer />
-      </div>
+      <BookContainer />
     </Provider>
   );
 }
